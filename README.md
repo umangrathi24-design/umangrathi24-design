@@ -1,6 +1,6 @@
 👋 Hi, I’m Umang Rathi
 
-💻 Data Analyst | Computer Science Engineer
+💻 Data Analyst | 
 
 📊 Passionate about data-driven insights & analytics
 
