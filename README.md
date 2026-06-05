@@ -16,6 +16,8 @@
 
 ⚡ Fun fact: I enjoy cricket & sketching, blending creativity with tech.
 
+📫 Reach me at: umangrathi24@gmail.com
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/umang-rathi-185916408) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:umangrathi24@gmail.com) 
 
