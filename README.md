@@ -1,12 +1,19 @@
 👋 Hi, I’m Umang Rathi
 
 💻 Data Analyst | Computer Science Engineer
+
 📊 Passionate about data-driven insights & analytics
+
 👨‍💻 Skilled in SQL, Python, Excel, React, Data Analytics
+
 🔭 Currently working on data analytics projects & dashboards
+
 👯 Looking to collaborate on data analysis & BI projects
+
 🌱 Currently learning advanced SQL & Power BI/Tableau
+
 💬 Ask me about SQL, Python, data cleaning & visualization
+
 ⚡ Fun fact: I enjoy cricket & sketching, blending creativity with tech.
 
 ## 🌐 Socials:
